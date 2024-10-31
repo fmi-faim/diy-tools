@@ -1,20 +1,12 @@
 site_name: Do It Yourself Tools
-# site_url: TO-DO
-# repo_url: TO-DO
-# repo_name: TO-DO
+site_url: https://fmi-faim.github.io/diy-tools
+repo_url: https://github.com/fmi-faim/diy-tools
+repo_name: diy-tools
 copyright: Copyright &copy; 2024, Friedrich Miescher Institute for Biomedical Research (FMI), Basel (Switzerland)
 nav:
   - Home: index.md
-  - Installation: installation.md
-  - Data: data.md
-  - Tutorial:
-    - 'Tutorials': tutorial/tutorials.md
-  - 'How-to Guide':
-    - 'Guides': how_to/guides.md
-  - Explanation:
-    - 'Explanations': explanation/explanations.md
-  - References:
-    - References: references/references.md
+  - Solutions:
+    - 'Holder for Objective Cleaning': solutions/holder_for_objective_cleaning.md
   - Imprint: imprint.md
 theme:
   name: material
@@ -56,8 +48,8 @@ theme:
 plugins:
   - offline:
       enabled: !ENV [ OFFLINE, false ]  # noqa
-#  - git-revision-date-localized:
-#      enable_creation_date: true
+ #- git-revision-date-localized:
+     #enable_creation_date: true
 #   - git-committers:
 #       repository: TO-DO
 #       branch: main
