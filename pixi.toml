@@ -2,7 +2,7 @@
 name = "Do It Yourself Tools"
 version = "0.1.0"
 description = "Add a short description here"
-authors = ["Tim-Oliver Buchholz <tim-oliver.buchholz@fmi.ch>"]
+authors = ["Tim-Oliver Buchholz <tim-oliver.buchholz@fmi.ch>", "Laurent Gelman <laurent.gelman@fmi.ch>"]
 channels = ["conda-forge", "bioconda"]
 platforms = ["linux-64", "win-64", "osx-arm64", "osx-64"]
 
