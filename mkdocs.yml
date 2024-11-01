@@ -8,6 +8,7 @@ nav:
   - Solutions:
     - 'Holder for Objective Cleaning': solutions/holder_for_objective_cleaning.md
     - 'Spatial Transcriptomics tips and tricks': solutions/spatial_transcriptomics.md
+  - How to Contribute: how_to_contribute.md
   - Imprint: imprint.md
 theme:
   name: material
