@@ -6,7 +6,7 @@
 
 
 ## Preparation
-- Open the `mctocs.yml` file with Notepad++ or another text editor (`diy-tools` repository folder)
+- Open the `mkdocs.yml` file with Notepad++ or another text editor (`diy-tools` repository folder)
 - Open a terminal window and navigate to your `diy-tools` repository
 	- Make sure you are using your newly created branch
 - Type
