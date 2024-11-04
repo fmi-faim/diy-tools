@@ -16,6 +16,9 @@
 	- When ever you **save** a change in your file, the changes will be rendered in the browser window
 
 ## Adding a new solution
+
+In your mkdocs.yml (opened in section "Preparation")
+
 ![Screenshot of the mkdocs.yml](images/how-to-01.png)
 
 1. Copy the last line in section "Solution" (e.g. shown in screen shot)
