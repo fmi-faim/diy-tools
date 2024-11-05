@@ -3,6 +3,7 @@
 Clean objectives are essential to acquire scientific data. To facilitate the cleaning, the objective lenses should be easy to access, whilst ensuring the objective remains stable and protected. For this purpose, we modified objective boxes to make the cleaning of both the front and back lenses of objectives possible. Do not use these holders for objective storage as the objectives would not be protected from dust!!
 
 ![Objective holders](Images/Series_of_Boxes.png)
+
 Holders for each objective manufacturer.
 
 
@@ -10,11 +11,11 @@ Holders for each objective manufacturer.
 A hole was made in the cap of objective boxes making sure the thread for screwing the objective in the cap remained intact.
 
 ![Inside of the cap](Images/cap_inside.png)
-&nbsp;
+
 Objectives can be screwed into the cap to clean the front lens of the objective as usual. With the barrel of the boxes screwed in, the back lens of the objective becomes safely accessible for cleaning.
 
 ![Access to the back lens](Images/Back_lens.png)
-&nbsp;
+
 
 ### How was it done
 
